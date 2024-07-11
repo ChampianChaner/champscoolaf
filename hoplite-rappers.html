@@ -15,8 +15,14 @@
 <body>
     <div>
         <video class="vid" controls autoplay src="small rick.mp4"></video>
-        <p style="color: white;">im sorry i just had to do that.. heres the real link</p>
-        <a href="https://discord.gg/W4WWFfYK">https://discord.gg/W4WWFfYK</a>
+        <div id="onclick" style="display: none;">
+            <p id="para" style="color: white;">I'm sorry, I just had to do that.. here's the real link</p>
+            <a id="link" href="https://discord.gg/W4WWFfYK">https://discord.gg/W4WWFfYK</a>
+        </div>
     </div>
+
+    <script>
+        document.getElementById("onclick").style.display = "block";
+    </script>
 </body>
 </html>
