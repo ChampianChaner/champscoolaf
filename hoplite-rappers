@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hoplite Rappers</title>
+    <link href="style.css" rel="stylesheet">
+    <style>
+        body{
+            background-color: black;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1></h1>
+        <video class="vid" controls autoplay src="small rick.mp4"></video>
+        <p>im sorry i just had to do that.. heres the real link</p>
+        <a href="https://discord.gg/W4WWFfYK">https://discord.gg/W4WWFfYK</a>
+    </div>
+</body>
+</html>
